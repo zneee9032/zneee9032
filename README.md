@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zneee9032)](https://www.acmicpc.net/user/zneee9032)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=zneee9032&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkl932)](https://www.acmicpc.net/user/jhkl932)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jhkl932&theme=warm)
