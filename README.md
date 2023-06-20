@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Hello! I'm JinHee  대문 -->
 ## Community project
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Team,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=250&section=header&text=%20JINHEE&fontColor=ffffff&fontSize=40&fontAlign=70&fontAlignY=35&desc=Hello,I'M🐱%20KIM&ddescSize=30&descAlign=40&descAlignY=35)
  
 </div>
 
