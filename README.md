@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**zneee9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zneee9032/zneee9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
-<p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
+<p align="center">:sparkling_heart:<img src="https://avatars.githubusercontent.com/u/95973827?v=4" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
 <!--
 💻I majored in Management Information Systems<br/>
 🏫Learned at Ssangyong Gangbuk Education Center<br/>
