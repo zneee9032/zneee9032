@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... test dd
 -->
 
-<!-- Hello! I'm DaJeong  대문 -->
+<!-- Hello! I'm JinHee  대문 -->
 <div align=center>
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF80DE,50:6EBBD6,100:F5E425&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
