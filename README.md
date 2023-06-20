@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Hello! I'm JinHee  대문 -->
 <div align=center>
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF80DE,50:6EBBD6,100:F5E425&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=%20community&fontColor=ffffff&fontSize=30&fontAlign=60&fontAlignY=35&desc=Team,Name🐱%20We're&ddescSize=20&descAlign=37&descAlignY=35)
  
 </div>
 
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 <!-- 얼굴 이모지 이미지 사진 Face pic -->
 <p align="center">:sparkling_heart:<img src="https://avatars.githubusercontent.com/u/95973827?v=4" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
 <!--
-💻I majored in Management Information Systems<br/>
+💻I majored in Geographic Information System<br/>
 🏫Learned at Ssangyong Gangbuk Education Center<br/>
 📚 learning Full-Stack(WEB front-end & back-end)
 <div align=right>
@@ -83,22 +82,12 @@ Here are some ideas to get you started:
  </p>
  
 
-<!-- 스킬 작성 -->
-<!-- 포트폴리오
-### ✡ Skills
-<a href="여기에 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/Portfolio-683D87?style=flat-square&logo=Notion&logoColor=white"/></a>
--->
- 
-<br>
-
-![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)[![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-DIDI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Chloe-DIDI)
-
 <!-- 이메일 컨텍 -->
 
 <h4 align=center>📧 If you would like to contact me 📧</h4>
 <p align=center>
-<a href="mailto:chloeedev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com"/></a>
-<a href="mailto:chelll1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com"/></a>
+<a href="mailto:jhkl9032@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhkl9032@gmail.com"/></a>
+<a href="mailto:jhkl932@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jhkl932@naver.com"/></a>
 </p>
 
 
