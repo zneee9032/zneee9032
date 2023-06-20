@@ -1,56 +1,7 @@
-### Hi there 👋
-<p align="center">
-  <a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
-  <h3 align="center">📌✨productive-box</h3>
-</p>
-
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
-</p>
-<p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   Let's check out in gist!
-</p>
-
----
-
-> This project is inspired by an awesome pinned-gist project.<br/>Find more in https://github.com/matchai/awesome-pinned-gists
-
-## Overview
-This project uses GitHub graphQL API to get the commit histories and write into the gist by [rest.js](https://github.com/octokit/rest.js#readme)
-
-## Setup
-
-### Prep work
-1. Create a new public GitHub Gist (https://gist.github.com/)
-1. Create a token with the `gist` and `repo` scope and copy it. (https://github.com/settings/tokens/new)
-   > enable `repo` scope seems **DANGEROUS**<br/>
-   > but this GitHub Action only accesses your commit timestamp in repository you contributed.
-
-### Project setup
-
-1. Fork this repo
-1. Open the "Actions" tab of your fork and click the "enable" button
-1. Edit the [environment variable](https://github.com/maxam2017/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
-
-   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/maxam2017/`**`9842e074b8ee46aef76fd0d493bae0ed`**.
-   - **TIMEZONE:** The timezone of your location, eg. `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc.
-
-1. Go to the repo **Settings > Secrets**
-1. Add the following environment variables:
-   - **GH_TOKEN:** The GitHub token generated above.
-1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
-
 <!--
-**zneee9032/zneee9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+
+**zneee9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -61,8 +12,94 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... test dd
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkl932)](https://www.acmicpc.net/user/jhkl932)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jhkl932&theme=warm)
+<!-- Hello! I'm DaJeong  대문 -->
+<div align=center>
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF80DE,50:6EBBD6,100:F5E425&height=200&section=header&text=Hello!%20I'm%20DaJeong&fontColor=ffffff&fontAlignY=40&fontSize=70)
+ 
+</div>
+
+<!-- 내가 한 만큼 프로젝트 퍼센트 나타내 주는 것 → 안하기로-->
+<!--
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Chloe-DIDI&repo=final_Seolo)](https://github.com/Final-Project-Team2/final_Seolo)
+-->
+
+<!-- 얼굴 이모지 이미지 사진 Face pic -->
+<p align="center">:sparkling_heart:<img src="https://user-images.githubusercontent.com/88278017/149611761-9ad6e497-6df7-408e-a97f-ad38f0fad81a.png" width="20%" height="20%" align="center"/>:sparkling_heart:</p>
+<!--
+💻I majored in Management Information Systems<br/>
+🏫Learned at Ssangyong Gangbuk Education Center<br/>
+📚 learning Full-Stack(WEB front-end & back-end)
+<div align=right>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
+
+</div>
+-->
+
+<!--
+<div align=right>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloe-DIDI%2FChloe-DIDI&count_bg=%23D2A6CA&title_bg=%23CACACA&icon=&icon_color=%23A4A4A4&title=hits&edge_flat=false?)](https://hits.seeyoufarm.com)
+
+</div>
+-->
+<div align=center>
+<!--
+💻I majored in Management Information Systems<br/>-->
+&emsp;&nbsp;💻Learned at Ssangyong Gangbuk Education Center<br/>
+📚 learning Full-Stack(Front-end & Back-end)&emsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
+<h2 align="center" >✨Tech Stack✨</h2>
+
+<!-- 스킬 작성 -->
+<p align=center>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+<br/>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+<a href="https://www.oracle.com/kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+</p>
+<br/>
+<h2 align="center">🛠Cowork Tool🛠</h2>
+<p align=center>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://Sourcetree.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+<a href="https://figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-EF2D5E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<br/>
+<a href="https://Notion.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-FECC00?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.google.com/drive/" target="_blank"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-02456C?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</a>
+ </p>
+ 
+
+<!-- 스킬 작성 -->
+<!-- 포트폴리오
+### ✡ Skills
+<a href="여기에 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/Portfolio-683D87?style=flat-square&logo=Notion&logoColor=white"/></a>
+-->
+ 
+<br>
+
+![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api?username=Chloe-DIDI&show_icons=true&theme=buefy)[![Chloe-DIDI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-DIDI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Chloe-DIDI)
+
+<!-- 이메일 컨텍 -->
+
+<h4 align=center>📧 If you would like to contact me 📧</h4>
+<p align=center>
+<a href="mailto:chloeedev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloeedev@gmail.com"/></a>
+<a href="mailto:chelll1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chelll1@naver.com"/></a>
+</p>
+
+
+ 
